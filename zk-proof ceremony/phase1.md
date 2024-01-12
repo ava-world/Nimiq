@@ -1,6 +1,6 @@
 # phase 1
 
-To join phase 1A all you have to do is generte a wallet and fill the registration form
+To join phase 1A all you have to do is generate a wallet and fill the registration form
 follow this steps to generate your wallet using your vps or ubuntu on your local machine.
 
 ## step 1: upgrade your machine
