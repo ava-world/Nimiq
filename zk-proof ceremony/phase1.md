@@ -90,7 +90,9 @@ This should take some minutes, just leave it to run.
 
 <li> Now copy your public key and your passphrase and save them securely </li>
 
-You can now fill the form with your "public keys"
+You can now fill the below form  with your "public keys" generated
+
+<p>https://docs.google.com/forms/d/e/1FAIpQLScHjdWS6x1C-RMXRyZHegP6V9wxliVuGB6M6mUI1bllgMTm5A/viewform?pli=1 </p>
 
 
 
