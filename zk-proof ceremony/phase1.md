@@ -82,7 +82,7 @@ This should take some minutes, just leave it to run.
 
 <img src="https://github.com/ava-world/Nimiq/blob/main/images/nimiq%201.13.png?raw=true" />
 
-<li> Type any character of better still use your twitter name again </li>
+<li> Type any character, make sure it is random </li>
 
 <img src="https://github.com/ava-world/Nimiq/blob/main/images/nimiq%201.14.png?raw=true" />
 
