@@ -26,3 +26,24 @@ remember not to clone my repository, you should change the url to your own repos
 cd nimiq-attestation
 ```
 
+```
+git add .
+```
+
+```
+git commit -m "sending attestation to github"
+```
+
+```
+git branch
+```
+
+branch should be "main" or "master" , so edit format the next code to master if branch is master
+
+```
+git push origin main
+```
+- enter only your GitHub username without using @
+
+
+## To get password 
